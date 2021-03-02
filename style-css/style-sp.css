@@ -505,6 +505,7 @@
   }
   .inquiry-form .inquiry-form-wrapper .check input {
     margin-right: 0;
+    transform: scale(0.5);
   }
   .inquiry-form .inquiry-form-wrapper .check .privacy {
     display: none !important;
